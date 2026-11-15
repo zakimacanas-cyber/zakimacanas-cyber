@@ -1,5 +1,5 @@
 <h1>Hi, I'm Zaki! <br/>
-
+  
 <h2>👨‍💻 Hands-on SOC Lab Projects</h2>
 
 - <b>Project 1</b>
@@ -8,8 +8,6 @@
   - 
 - <b>Project 3</b>
   -
-
-
 
 <!--
 **zakimacanas-cyber/zakimacanas-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
