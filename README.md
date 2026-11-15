@@ -1,4 +1,7 @@
-<h1>Hi, I'm Zaki! <br/>
+## 👋 Hi, I'm Zaki
+Former Physical Security Specialist transitioning into Cybersecurity
+
+📫 Reach me at: **zakimacanas@gmail.com**  
   
 <h2>👨‍💻 Hands-on SOC Lab Projects</h2>
 
