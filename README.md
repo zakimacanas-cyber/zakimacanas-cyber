@@ -11,8 +11,8 @@ My journey in self-learning has led me to develop a passion for cybersecurity an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Wazuh SOC Home Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Wazuh SOC Home Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/zakimacanas-cyber/wazuh-soc-home-lab">Wazuh SOC Home Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/zakimacanas-cyber/wazuh-soc-home-lab">Wazuh SOC Home Lab</a>|
 
 ## Tools
 
