@@ -1,25 +1,37 @@
-<h1>Hi, I'm Zaki!</h1>
+# Hi, I'm Zaki!
+<a href="https://linkedin.com/in/zakimacanas"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>SOC Hands-on Lab Projects:</h2>
+I am a former physical security specialist with a profound interest in technology and a dedication to continuous learning.
 
-- <b>Project 1</b>
-  - 
-- <b>Project 2</b>
-  - 
-- <b>Project 3</b>
-  - 
+## Objective
 
-<!--
-**zakimacanas-cyber/zakimacanas-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My journey in self-learning has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Wazuh SOC Home Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Wazuh SOC Home Lab</a>|
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+</div>
+
+## Projects
+- Wazuh SOC Home Lab
