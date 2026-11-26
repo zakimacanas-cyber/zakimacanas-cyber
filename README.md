@@ -1,4 +1,4 @@
-# Hi, I'm Zaki!
+# Hi, I'm Zaki!👋
 <a href="https://linkedin.com/in/zakimacanas"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a former physical security specialist with a profound interest in technology and a dedication to continuous learning.
