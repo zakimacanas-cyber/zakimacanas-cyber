@@ -33,4 +33,4 @@ My journey in self-learning has led me to develop a passion for cybersecurity an
 </div>
 
 ## Projects
-- Wazuh SOC Home Lab
+- <a href="https://github.com/zakimacanas-cyber/wazuh-soc-home-lab">Wazuh SOC Home Lab</a>
